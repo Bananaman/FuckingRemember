@@ -1,0 +1,11 @@
+## Interface: 20400
+## Title: FuckingRemember: Your Dailies
+## Author: VideoPlayerCode
+## Version: 1.0.0
+## Notes: Automatically reminds you to deliver your finished Burning Crusade dailies every time you enter Shattrath. Sigh.
+## X-License: Apache License, Version 2.0
+## X-Website: https://github.com/VideoPlayerCode/FuckingRemember
+
+Core.lua
+
+
